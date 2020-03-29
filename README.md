@@ -23,3 +23,5 @@ This is a test repository for testing advanced git features
 11. This is Squash 11 change
 
 12. This is Squash 12 change
+
+13. This is Squash 13 change

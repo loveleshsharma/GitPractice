@@ -29,3 +29,5 @@ This is a test repository for testing advanced git features
 14. This is Squash 14 change
 
 15. This is Squesh 15 change
+
+16. This is Squash 16 change

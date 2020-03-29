@@ -11,3 +11,9 @@ This is a test repository for testing advanced git features
 5. This is Squash 5 change
 
 6. This is Squash 6 change
+
+7. This is Squash 7 change
+
+8. This is Squash 8 change
+
+9. This is Squash 9 change

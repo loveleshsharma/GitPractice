@@ -35,3 +35,7 @@ This is a test repository for testing advanced git features
 17. This is Squash 17 change
 
 18. I Rebase change 1
+
+19. I Rebase change 2
+
+20. I Rebase change 3

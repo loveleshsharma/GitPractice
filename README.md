@@ -41,3 +41,7 @@ This is a test repository for testing advanced git features
 20. I Rebase change 3
 
 21. I Rebase change 4
+
+22. I Rebase change 5
+
+23. I Rebase change 6
